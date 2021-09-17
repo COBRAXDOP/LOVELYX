@@ -6,7 +6,7 @@ __help__ = """
           ꧁ LOVE IS LYF ❤️꧂
 
 Here is love sad ,romantic status , poetry , shayri , friendship etc...
-Join [LOVE STATUS❤️](https://t.me/shayri_of_loves) to see our post
+Join [LOVE CHATING❤️](https://t.me/L0VEXWORLD) to see our post
 
-OWNED by [ƬƲƧӇƛƦ](https://t.me/TUSHAR204)
+OWNED by [COBRA](https://t.me/XD_LIF)
 """
