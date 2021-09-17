@@ -3,11 +3,11 @@
 
 mod_name = "Vᴄ ᴘʟᴀʏᴇʀ🎧"
 help = """
-    <b>》 @LOVELYR_OBOT  《</b>
+    <b>》 @AlizaProBot  《</b>
             
- @Lovelyvcrobot plays music in your group's voice chat
+ @AlizaProBot plays music in your group's voice chat
  
- Assistant name >> ꧁ @LOVELYVC ꧂
+ Assistant name >> ꧁ @AlizaProBot ꧂
  
 <b> Setting up </b>
 1) Make bot admin
