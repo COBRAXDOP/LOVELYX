@@ -74,22 +74,22 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hello I'm 𝕷𝖔𝖛𝖊𝖑𝖞 𝕽𝖔𝖇𝖔𝖙 ,
-༒︎ I ᴀᴍ ᴍᴜʟᴛɪ ᴛᴀʟᴇɴᴛᴇᴅ ʙᴏᴛ ᴡɪᴛʜ ᴏsᴍ ғᴇᴀᴛᴜʀᴇs[.](https://telegra.ph/file/bfd2b8688249cbfb901b0.jpg)
+Hello I'm 𝐀𝐥𝐢𝐳𝐚 𝐁𝐨𝐭 ,
+༆ I ᴀᴍ ᴍᴜʟᴛɪ ᴛᴀʟᴇɴᴛᴇᴅ ʙᴏᴛ ᴡɪᴛʜ ᴏsᴍ ғᴇᴀᴛᴜʀᴇs[.](https://telegra.ph/file/987609c477aedf8086cff.jpg)
 
-➪ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴀᴅᴍɪɴ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴇxᴘʟᴏsɪᴠᴇ.
+☞︎︎︎ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴀᴅᴍɪɴ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴇxᴘʟᴏsɪᴠᴇ.
 
-➪ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [ᴍᴀsᴛᴇʀ](t.me/TUSHAR204) ғᴏʀ ᴀɴʏ ǫᴜᴇʀʏ ᴀɴᴅ [ᴀᴘᴘᴇᴀʟ](https://t.me/LOVELYAPPEAL) ʜᴇʀᴇ.
+☞︎︎︎ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [ᴍᴀsᴛᴇʀ](t.me/XD_LIF) ғᴏʀ ᴀɴʏ ǫᴜᴇʀʏ ᴀɴᴅ [support](https://t.me/MISTY_SUPORTER) ʜᴇʀᴇ.
 
-➪ ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ʜᴇʟᴘ ᴛᴏ ᴇxᴘʟᴏʀᴇ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ ᴀɴᴅ ᴍʏ ғᴇᴀᴛᴜʀᴇs.
+☞︎︎︎ ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ʜᴇʟᴘ ᴛᴏ ᴇxᴘʟᴏʀᴇ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ ᴀɴᴅ ᴍʏ ғᴇᴀᴛᴜʀᴇs.
 
-➪ Pᴏᴡᴇʀᴇᴅ ʙʏ [𝕷𝖔𝖇𝖊 𝕱𝖆𝖎𝖑𝖚𝖗𝖊](t.me/shayri_of_loves)
+☞︎︎︎ Pᴏᴡᴇʀᴇᴅ ʙʏ [ᴄᴏʙʀᴀxᴅ](t.me/MISTY_SUPORTER)
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ Aᴅᴅ ʟᴏᴠᴇʟʏ ᴛᴏ ɢʀᴏᴜᴘ ➕️", url="t.me/LOVELYR_OBOT?startgroup=true"),
+            text="➕️ Aᴅᴅ Aʟɪᴢᴀ ᴛᴏ ɢʀᴏᴜᴘ ➕️", url="t.me/LOVELYR_OBOT?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="ℹ️Aʙᴏᴜᴛ", callback_data="masha_"),
@@ -97,20 +97,20 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="✨Lᴏᴠᴇʟʏ ʟᴏɢs✨", url="t.me/LOV3LYLOGS"),
+            text="✨Aʟɪᴢᴀ ʟᴏɢs✨", url="t.me/ALIZA_LOGS"),
         InlineKeyboardButton(
-            text="👥Sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ👥", url="https://t.me/LOVELYAPPEAL"),
+            text="👥Sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ👥", url="https://t.me/MISTY_SUPORTER"),
     ],
     [  
-        InlineKeyboardButton(text="😈Lᴏᴠᴇʟʏ ᴅᴇᴠs😈", url="https://t.me/LOVELYDEVS"
+        InlineKeyboardButton(text="😈Aʟɪᴢᴀ ᴅᴇᴠs😈", url="https://t.me/XD_LIF"
     ),
     ], 
     [
-        InlineKeyboardButton(text="❤️Lᴏᴠᴇ sᴛᴀᴛᴜs❤️", url="https://t.me/shayri_of_loves"
+        InlineKeyboardButton(text="⚡ғᴇᴀʀᴀɴᴅsʜɪᴘ ɢʀᴏᴜᴘ⚡", url="https://t.me/L0VEXWORLD"
     ), 
     ],
     [   
-        InlineKeyboardButton(text="🔔Uᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ🔔", url="https://t.me/ABOUTVEDMAT"
+        InlineKeyboardButton(text="🔔Uᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ🔔", url="https://t.me/MISTY_SUPORT"
     ),
     ],
 ]
@@ -118,10 +118,10 @@ buttons = [
 
 
 HELP_STRINGS = """
-༆*LOVELY comes with many special features in it*༆
-꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF LOVELY*꧂
-𖣘 *All commands can either be used with* `/` *or* `!`.
-𖣘 *If you facing any issue or find any bugs in any command then you can report it in @LOVELYAPPEAL* [.](https://telegra.ph/file/cbbf01ed6f013ce07d54f.jpg)
+☘︎*Aʟɪᴢᴀ Cᴏᴍᴇs Wɪᴛʜ Mᴀɴʏ Sᴘᴇᴄɪᴀʟ Fᴇᴀᴛᴜʀᴇs Iɴ Iᴛ*☘︎
+☘︎*Cʜᴇᴄᴋ Aʟʟ Bᴜᴛᴛᴏɴ Bᴇʟᴏᴡ Tᴏ Exᴘʟᴏʀᴇ Eᴠᴇʀʏ Cᴏᴍᴍᴀɴᴅs Oғ Aʟɪᴢᴀ*☘︎
+☘︎ *Aʟʟ Cᴏᴍᴍᴀɴᴅs ᴄᴀɴ Eɪᴛʜᴇʀ Cᴏᴍᴍᴇɴᴅs Cᴀɴ Eɪᴛʜᴇʀ Bᴇ Usᴇᴅ Wɪᴛʜ* `/` *Oʀ* `!`.
+☘︎ *Iғ Yᴏᴜ Fᴀᴄɪɴɢ Aɴʏ Issᴜᴇ Oʀ Fɪɴᴅ Aɴʏ Bᴜɢs Iɴ Aɴʏ Cᴏᴍᴍᴀɴᴅ Tʜᴇɴ Yᴏᴜ Cᴀɴ Rᴇᴘᴏʀᴛ Iᴛ Iɴ @LOVELYAPPEAL* [.](https://telegra.ph/file/cbbf01ed6f013ce07d54f.jpg)
 """
 
 
@@ -370,7 +370,7 @@ def Masha_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "masha_":
         query.message.edit_text(
-            text=""" ℹ️ I'm *LOVELY*, a powerful group management bot built to help you manage your group easily.
+            text=""" ℹ️ I'm *ALIZA*, a powerful group management bot built to help you manage your group easily.
                  ❍ I can restrict users.
                  ❍ I can greet users with customizable welcome messages and even set a group's rules.
                  ❍ I have an advanced anti-flood system.
@@ -378,8 +378,8 @@ def Masha_about_callback(update: Update, context: CallbackContext):
                  ❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  ❍ I check for admins' permissions before executing any command and more stuffs
                  \n_Emcee's licensed under the GNU General Public License v3.0_
-                 Here is the [💾Repository](https://t.me/LOVELYAPPEAL).
-                 If you have any question about Lovely, let us know at @LOVELYAPPEAL.""",
+                 Here is the [💾Repository](https://t.me/XD_LIF).
+                 If you have any question about ALIZA, let us know at @MISTY_SUPORT.""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -405,8 +405,8 @@ def Source_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I'm *lovely*
-                 \nHere is the [Source Code](https://t.me/LOVELYAPPEL) .""",
+            text=""" Hi..🤗 I'm *Aʟɪᴢᴀ*
+                 \nHere is the [Source Code](https://t.me/XD_LIF) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=False,
             reply_markup=InlineKeyboardMarkup(
